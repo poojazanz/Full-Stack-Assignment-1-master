@@ -1,12 +1,8 @@
-import './App.css';
-import Home from './grocery/Home';
-
+import "./App.css";
+import Home from "./grocery/Home";
 
 function App() {
-  
-  return (
-    <Home/>
-  );
+  return <Home />;
 }
 
 export default App;
